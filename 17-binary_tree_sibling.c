@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
-  * binary_tree_sibling - Function to find sibling of a node
+  * binary_tree_sibling - Function to find sibling of a node M_I_N_E
   * @node: This is the node pointer
   * Return: Returns a pointer to a BT_node
   */
