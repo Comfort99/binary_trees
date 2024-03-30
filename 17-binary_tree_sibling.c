@@ -2,7 +2,7 @@
 /**
   * binary_tree_sibling - Function to find sibling of a node M_I_N_E
   * @node: This is the node pointer
-  * Return: Returns a pointer to a BT_node
+  * Return: Returns a pointer to a Binary Tree_node
   */
 binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 {

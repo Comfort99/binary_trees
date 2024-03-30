@@ -1,9 +1,9 @@
 #include "binary_trees.h"
 /**
-  * binary_tree_balance - Checks for the height of a node in a BT.
+  * binary_tree_balance - Checks for the height
+  * of a node in a Binary Tree.
   * @tree: This is node pointer
   * Return: This returns height of node in BT.
-  * BT -- Binary tree
   */
 int binary_tree_balance(const binary_tree_t *tree)
 {
@@ -19,7 +19,8 @@ int binary_tree_balance(const binary_tree_t *tree)
 
 
 /**
-  * binary_height2 - Checks for the height of a node in a BT.
+  * binary_height2 - Checks for the height
+  * of a node in a Binary Tree.
   * @tree: This is node pointer
   * Return: This returns height of node in BT.
   * BT -- Binary tree

@@ -1,6 +1,7 @@
 #include "binary_trees.h"
 /**
-  * binary_tree_is_perfect - This checks if BT is perfect M_I_N_E{wrapper}
+  * binary_tree_is_perfect - This checks if 
+  * Binary Tree is perfect M_I_N_E{wrapper}
   * @tree: This is the node pointer
   * Return: This returns 1,if perfect, else 0
   */
